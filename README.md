@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsamii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
+![](https://komarev.com/ghpvc/?username=ahmadsamii)
+<br>
 Welcome to my GitHub! I'm Ahmad, a Electrical Engineering graduate who has transitioned into Full Stack Software Engineering with 7+ years experience developing robust web applications for high-volume businesses and enterprises. Also i have contributed in a product that won Barclay’s 2017 Innovation Challenge. Developed automation platform which has beta clients including Fortune 500 companies.
 
 
