@@ -1,9 +1,6 @@
 <img src= "https://raw.githubusercontent.com/ahmadsamii/ahmadsamii/master/software.png"></img>
 
-<br>
-
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadsamii&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsamii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
