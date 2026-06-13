@@ -1,7 +1,5 @@
-<img src= "https://raw.githubusercontent.com/ahmadsamii/ahmadsamii/master/software.png"></img>
+<img width="1983" height="793" alt="Muhammad Ahmad Ali Raza" src="https://github.com/user-attachments/assets/6fb2934b-26f3-4b8b-8eef-46313a4aac18" />
 
-[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliraza&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliraza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Muhammad Ahmad Ali Raza
 
@@ -104,15 +102,9 @@ Creating workflow orchestration systems, conversational interfaces, and AI-power
 
 ---
 
-
 ## Connect
 
-<a href="https://www.linkedin.com/in/ahmad-ali-raza/">
-  <img align="left" alt="Ahmad's Linkdein" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a90c0e79a3158f2990ee3c1856941a8ac0c94d15/icons/linkedin.svg" />
-</a>
-
-<a href="https://facebook.com/bhaai.jan">
-  <img align="left" alt="Ahmad's Facebook" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a90c0e79a3158f2990ee3c1856941a8ac0c94d15/icons/facebook.svg" />
-</a>
+* LinkedIn: [www.linkedin.com/in/ahmad-ali-raza](http://www.linkedin.com/in/ahmad-ali-raza)
+* GitHub: github.com/ahmadsamii
 
 > Building practical AI systems that integrate directly into real enterprise workflows.
